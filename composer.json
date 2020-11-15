@@ -1,0 +1,21 @@
+{
+    "name": "hypercode/controller",
+    "description": "",
+    "type": "library",
+    "authors": [
+        {
+            "name": "JoaoGabrielOliveira",
+            "email": "joaog.conceicao@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Hyper\\":["src"]
+        }
+    },
+
+    "require": {
+        "coffeecode/router": "1.0.*"
+    }
+}
