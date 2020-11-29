@@ -11,7 +11,8 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Hyper\\":["src"]
+            "Hyper\\":["src"],
+            "Hyper\\Controller\\":["main/controllers"]
         }
     },
 
