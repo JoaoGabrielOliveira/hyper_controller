@@ -15,8 +15,15 @@
             "Hyper\\Controller\\":["main/controllers"]
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:JoaoGabrielOliveira/hyper_router_strategy.git"
+        }
+    ],
 
     "require": {
+        "hypercode/route_strategy":"1.0.0",
         "coffeecode/router": "1.0.*"
     }
 }
