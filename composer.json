@@ -23,7 +23,7 @@
     ],
 
     "require": {
-        "hypercode/route_strategy":"1.0.0",
+        "hypercode/route_strategy":"1.*.*",
         "coffeecode/router": "1.0.*"
     }
 }
